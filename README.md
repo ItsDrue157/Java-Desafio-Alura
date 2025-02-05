@@ -1,1 +1,1 @@
-DEsafio de final do curso Java: criando a sua primeira aplicação da alura.
+Desafio de final do curso Java: criando a sua primeira aplicação da alura.
